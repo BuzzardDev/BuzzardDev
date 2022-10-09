@@ -1,1 +1,1 @@
-<h1>Damian Frey</h1><h2>Damian Frey</h2>
+<h1>Buzzard Dev</h1><h2>Experience</h2><p>Full time High School Student with a passion for programming. Currently working on the beautiful art of JAVA!</p><h2>Hobbies</h2><p>Some of my hobbies are playing games with friends, working and programming!</p><h2>Skills & Tools</h2><p>Java, C#, Photoshop, Microsoft Office</p>
